@@ -16,6 +16,7 @@ header {
   border-radius: 8px;
   margin-left: 25px;
   margin-right: 25px;
+  
 }
 #img-2 {
   filter: invert(94%) sepia(11%) saturate(182%) hue-rotate(194deg)
@@ -49,7 +50,7 @@ header {
   margin-bottom: 60px;
   box-shadow: #1f1e1e 1px 3px 8px;
 }
-#img-receta {
+#img-receta  { 
   border-radius: 10px;
   height: 300px;
   width: 950px;
@@ -87,6 +88,7 @@ h2 {
   margin-top: 45px;
   margin-left: 70px;
   margin-right: 70px;
+  box-shadow: #636161 1px 3px 8px;
 }
 #preparacion-2 {
   margin-bottom: 30px;
